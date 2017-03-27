@@ -1,0 +1,23 @@
+{
+  "name": "printserver",
+  "version": "1.0.0",
+  "description": "Sencilla app para imprimir por HTTP/HTTPS",
+  "main": "ps.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "tmp": "0.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Impresora",
+    "Windows",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Alberto Herrera",
+  "license": "ISC"
+}
